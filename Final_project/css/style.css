@@ -55,10 +55,10 @@ body {
   display: inline-block;
 }
 
-.img-resize:hover{
+/*.img-resize:hover{
   height: 320px;
   width: 320px;
-}
+}*/
 
 .img-resize{
   width: 300px;
